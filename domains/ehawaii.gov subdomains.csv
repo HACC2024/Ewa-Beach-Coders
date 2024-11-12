@@ -1,0 +1,8 @@
+Subdomain,IP,Cloudflare
+ahc.ehawaii.gov,151.101.194.228,false
+explore.ehawaii.gov,18.172.112.24,false
+projects.ehawaii.gov,54.201.48.89,false
+styleguide.ehawaii.gov,23.185.0.1,false
+test-energywiz.ehawaii.gov,158.75.202.2,false
+www.explore.ehawaii.gov,18.172.112.105,false
+dlnr.hawaii.gov/dar/education/,104.16.146.70,true

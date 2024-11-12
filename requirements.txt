@@ -1,9 +1,8 @@
-fastapi
-uvicorn
-mangum
+customtkinter
 requests
+beautifulsoup4
+PyPDF2
 python-dotenv
 faiss-cpu
+tqdm
 sentence-transformers
-numpy
-groq
